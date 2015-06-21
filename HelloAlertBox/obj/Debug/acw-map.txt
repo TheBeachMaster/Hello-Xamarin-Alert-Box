@@ -1,0 +1,4 @@
+HelloAlertBox.MainActivity, HelloAlertBox;md531b817cf3858e1268cc0c02e1e8dad25.MainActivity
+HelloAlertBox.MainActivity, HelloAlertBox, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md531b817cf3858e1268cc0c02e1e8dad25.MainActivity
+HelloAlertBox.MainActivity;md531b817cf3858e1268cc0c02e1e8dad25.MainActivity
+helloalertbox.MainActivity;md531b817cf3858e1268cc0c02e1e8dad25.MainActivity

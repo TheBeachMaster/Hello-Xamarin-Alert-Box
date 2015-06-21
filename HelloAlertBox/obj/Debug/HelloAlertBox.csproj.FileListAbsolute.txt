@@ -1,0 +1,14 @@
+D:\developer\xamarin\XamarinVisualStudioProjects\HelloAlertBox\HelloAlertBox\obj\Debug\HelloAlertBox.csprojResolveAssemblyReference.cache
+D:\developer\xamarin\XamarinVisualStudioProjects\HelloAlertBox\HelloAlertBox\bin\Debug\HelloAlertBox.dll
+D:\developer\xamarin\XamarinVisualStudioProjects\HelloAlertBox\HelloAlertBox\bin\Debug\HelloAlertBox.pdb
+D:\developer\xamarin\XamarinVisualStudioProjects\HelloAlertBox\HelloAlertBox\bin\Debug\HelloAlertBox.dll.mdb
+D:\developer\xamarin\XamarinVisualStudioProjects\HelloAlertBox\HelloAlertBox\bin\Debug\HelloAlertBox.HelloAlertBox.apk
+D:\developer\xamarin\XamarinVisualStudioProjects\HelloAlertBox\HelloAlertBox\bin\Debug\HelloAlertBox.HelloAlertBox-Signed.apk
+D:\developer\xamarin\XamarinVisualStudioProjects\HelloAlertBox\HelloAlertBox\obj\Debug\HelloAlertBox.dll
+D:\developer\xamarin\XamarinVisualStudioProjects\HelloAlertBox\HelloAlertBox\obj\Debug\HelloAlertBox.pdb
+D:\developer\xamarin\XamarinVisualStudioProjects\HelloAlertBox\HelloAlertBox\obj\Debug\android\bin\HelloAlertBox.HelloAlertBox.apk
+D:\developer\xamarin\XamarinVisualStudioProjects\HelloAlertBox\HelloAlertBox\obj\Debug\res\layout\main.xml
+D:\developer\xamarin\XamarinVisualStudioProjects\HelloAlertBox\HelloAlertBox\obj\Debug\res\values\strings.xml
+D:\developer\xamarin\XamarinVisualStudioProjects\HelloAlertBox\HelloAlertBox\obj\Debug\res\drawable\icon.png
+D:\developer\xamarin\XamarinVisualStudioProjects\HelloAlertBox\HelloAlertBox\obj\Debug\R.cs.flag
+D:\developer\xamarin\XamarinVisualStudioProjects\HelloAlertBox\HelloAlertBox\obj\Debug\uploadflags.txt

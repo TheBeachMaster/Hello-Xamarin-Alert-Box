@@ -1,0 +1,1 @@
+D:\developer\xamarin\XamarinVisualStudioProjects\HelloAlertBox\HelloAlertBox\bin\Debug\HelloAlertBox.dll
